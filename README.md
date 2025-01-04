@@ -81,12 +81,12 @@ This project explores three different models for image captioning:
 *   You will need to have the required libraries installed to run the notebook.
 
 ## Results
-*   The best performance was achieved with the LSTM model. Below is a table showing the final results achieved by compairing each of the model;
+*   The best performance was achieved with the RNN model. Below is a table showing the final results achieved by compairing each of the model;
     | Model              | Loss    | Accuracy  | Precision | Recall   | F1 Score | AUC Score |
     |--------------------|---------|-----------|-----------|----------|----------|-----------|
     | Transformer Model  | 3.0040  | 0.3709    | 0.2891    | 0.3709   | 0.3021   | 0.9199    |
     | RNN Model          | 1.6441  | 0.7560    | 0.7643    | 0.7560   | 0.7463   | 0.9415    |
     | LSTM Model         | 5.2362  | 0.3920    | 0.3774    | 0.3920   | 0.3746   | 0.8143    |
 
-* The **LSTM Model** demonstrates the best performance based on the metrics, with the lowest loss score and the highest accuracy, precision, recall, F1, and AUC scores. The **transformer model** has the lowest performance, with the highest loss and the lowest accuracy score.
+* The **RNN Model** demonstrates the best performance based on the metrics, with the lowest loss score and the highest accuracy, precision, recall, F1, and AUC scores. The **transformer model** has the lowest performance, with the highest loss and the lowest accuracy score.
 * The project successfully demonstrates image captioning using different models, highlighting the strengths and challenges of each approach.
