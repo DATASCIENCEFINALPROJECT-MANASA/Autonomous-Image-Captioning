@@ -1,5 +1,5 @@
 
-# Model Development for Autonomous Image Captioning Using Transformer Architecture
+# Development and Comparison of Transformer, RNN and LSTM Model for Autonomous Image Captioning
 
 ## Introduction
 
